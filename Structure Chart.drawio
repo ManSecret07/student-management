@@ -1,0 +1,76 @@
+<mxfile host="Electron">
+  <diagram name="Page-1" id="Obmh8bjl1H2dcklrVzEU">
+    <mxGraphModel dx="1037" dy="639" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="F_4tyd_ENuK765V_bmoN-3" edge="1" parent="1" source="F_4tyd_ENuK765V_bmoN-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;defaultLabelBackgroundColor=page;fillColor=#dae8fc;strokeColor=#6c8ebf;" target="F_4tyd_ENuK765V_bmoN-2" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F_4tyd_ENuK765V_bmoN-6" edge="1" parent="1" source="F_4tyd_ENuK765V_bmoN-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;fillColor=#dae8fc;strokeColor=#6c8ebf;" target="F_4tyd_ENuK765V_bmoN-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F_4tyd_ENuK765V_bmoN-12" edge="1" parent="1" source="F_4tyd_ENuK765V_bmoN-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;fillColor=#dae8fc;strokeColor=#6c8ebf;" target="F_4tyd_ENuK765V_bmoN-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F_4tyd_ENuK765V_bmoN-14" edge="1" parent="1" source="F_4tyd_ENuK765V_bmoN-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;fillColor=#dae8fc;strokeColor=#6c8ebf;" target="F_4tyd_ENuK765V_bmoN-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F_4tyd_ENuK765V_bmoN-16" edge="1" parent="1" source="F_4tyd_ENuK765V_bmoN-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;fillColor=#dae8fc;strokeColor=#6c8ebf;" target="F_4tyd_ENuK765V_bmoN-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F_4tyd_ENuK765V_bmoN-18" edge="1" parent="1" source="F_4tyd_ENuK765V_bmoN-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;fillColor=#dae8fc;strokeColor=#6c8ebf;" target="F_4tyd_ENuK765V_bmoN-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F_4tyd_ENuK765V_bmoN-20" edge="1" parent="1" source="F_4tyd_ENuK765V_bmoN-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;fillColor=#dae8fc;strokeColor=#6c8ebf;" target="F_4tyd_ENuK765V_bmoN-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F_4tyd_ENuK765V_bmoN-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="main" vertex="1">
+          <mxGeometry height="60" width="120" x="524.5" y="130" as="geometry" />
+        </mxCell>
+        <mxCell id="F_4tyd_ENuK765V_bmoN-2" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="showStudent" vertex="1">
+          <mxGeometry height="60" width="120" x="524.5" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="F_4tyd_ENuK765V_bmoN-4" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;fontSize=22;fontStyle=1" value="Structure Chart" vertex="1">
+          <mxGeometry height="30" width="345" x="412" y="60" as="geometry" />
+        </mxCell>
+        <mxCell id="F_4tyd_ENuK765V_bmoN-8" edge="1" parent="1" source="F_4tyd_ENuK765V_bmoN-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;fillColor=#dae8fc;strokeColor=#6c8ebf;" target="F_4tyd_ENuK765V_bmoN-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F_4tyd_ENuK765V_bmoN-5" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="removeStudent" vertex="1">
+          <mxGeometry height="60" width="120" x="380" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="F_4tyd_ENuK765V_bmoN-10" edge="1" parent="1" source="F_4tyd_ENuK765V_bmoN-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;fillColor=#dae8fc;strokeColor=#6c8ebf;" target="F_4tyd_ENuK765V_bmoN-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F_4tyd_ENuK765V_bmoN-7" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="findStudent" vertex="1">
+          <mxGeometry height="60" width="120" x="380" y="354" as="geometry" />
+        </mxCell>
+        <mxCell id="F_4tyd_ENuK765V_bmoN-9" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="sortStudent" vertex="1">
+          <mxGeometry height="60" width="120" x="380" y="438" as="geometry" />
+        </mxCell>
+        <mxCell id="F_4tyd_ENuK765V_bmoN-11" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="addStudent" vertex="1">
+          <mxGeometry height="60" width="120" x="235" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="F_4tyd_ENuK765V_bmoN-13" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="showStudent" vertex="1">
+          <mxGeometry height="60" width="120" x="90" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="F_4tyd_ENuK765V_bmoN-15" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="sortByScore" vertex="1">
+          <mxGeometry height="60" width="120" x="669" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="F_4tyd_ENuK765V_bmoN-22" edge="1" parent="1" source="F_4tyd_ENuK765V_bmoN-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;defaultLabelBackgroundColor=page;fillColor=#dae8fc;strokeColor=#6c8ebf;" target="F_4tyd_ENuK765V_bmoN-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="F_4tyd_ENuK765V_bmoN-17" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="showStatistic" vertex="1">
+          <mxGeometry height="60" width="120" x="810" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="F_4tyd_ENuK765V_bmoN-19" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="calculateGrade" vertex="1">
+          <mxGeometry height="60" width="120" x="951" y="270" as="geometry" />
+        </mxCell>
+        <mxCell id="F_4tyd_ENuK765V_bmoN-21" parent="1" style="whiteSpace=wrap;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="calculateAverage" vertex="1">
+          <mxGeometry height="60" width="120" x="810" y="354" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
